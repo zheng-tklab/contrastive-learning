@@ -1,1 +1,1 @@
-# contrastive-learning
+# self-supervised contrastive-learning
